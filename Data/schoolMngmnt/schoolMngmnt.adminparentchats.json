@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "662e01100e2b1d046ab6951e"
+  },
+  "data": "Namaste madam",
+  "sender": "admin",
+  "reciever": "adminParentChat",
+  "parentName": "Lakshmi",
+  "childAdmissionNumber": "18160334",
+  "date": "28/4/2024, 1:26:00 pm",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662e3bbe603c657e6f2463da"
+  },
+  "data": "hlo",
+  "sender": "parent",
+  "reciever": "admin",
+  "parentName": "lakshmi",
+  "childAdmissionNumber": "test",
+  "date": "28/4/2024, 5:36:22 pm",
+  "__v": 0
+}]
