@@ -1,4 +1,4 @@
-﻿\1) **Home Page :** 
+﻿\1) **     ITS BETTER TO LOOK AT README.docx for clear images and content.................Home Page :** 
 
 ![](Aspose.Words.746408b7-c515-4482-9693-ad40bcdcc955.001.png)
 
